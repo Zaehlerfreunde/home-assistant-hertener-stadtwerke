@@ -1,7 +1,7 @@
 {
   "domain": "hertenerstadtwerke",
   "name": "Hertener Stadtwerke",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "config_flow": true,
   "documentation": "https://github.com/Zaehlerfreunde/home-assistant-hertener-stadtwerke",
   "issue_tracker": "https://github.com/Zaehlerfreunde/home-assistant-hertener-stadtwerke/issues",
